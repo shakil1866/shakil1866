@@ -1,4 +1,4 @@
-<img  width="1000" src="https://www.perfettosolutions.in/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif" />
+<img lang="2" width="1000" src="https://www.perfettosolutions.in/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif" />
 <h1 align="center">Hi 👋, I'm Shakil Ahammed</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
