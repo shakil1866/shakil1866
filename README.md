@@ -18,7 +18,7 @@
 - 📫 How to reach me **<a>shakilahammed01234@gmail.com</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shakil1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil1866" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shakil1866" target="blank"><i class="fa-brands fa-instagram" style="color: #a81a21;" alt="shakil1866" height="30" width="40" /> </i></a>
 <a href="https://instagram.com/sakil1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakil1866" height="30" width="40" /></a>
 <a href="https://dribbble.com/shakil1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shakil1866" height="30" width="40" /></a>
 </p>
