@@ -3,8 +3,8 @@
 
 <h3 align="left">A passionate frontend developer from India</h3>
 <ul style="list-style-type:none;">
-<li>💼I am Web Developer</li>
-<li>💎Love to Code and Design</li>
+💼I am Web Developer
+💎Love to Code and Design
 <li>⚔Like to share my knowledge</li>    
 </ul>
 
