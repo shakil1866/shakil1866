@@ -3,7 +3,7 @@
 
 <h3 align="left">A passionate frontend developer from India</h3>
 
-💼I am Web Developer<br>
+<p>💼I am Web Developer</p><br>
 💎Love to Code and Design<br>
 ⚔Like to share my knowledge <br>    
 
