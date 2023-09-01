@@ -3,9 +3,9 @@
 
 <h3 align="left">A passionate frontend developer from India</h3>
 
-<h4 align="left"  style="margin:0px 0px 0px 0px;">💼I am Web Developer</h4>
-<h4 align="left"  style="margin:0px 0px 0px 0px;">💎Love to Code and Design</h4>
-<h4 align="left"  style="margin:0px 0px 0px 0px;">⚔Like to share my knowledge</h4>      
+💼I am Web Developer
+💎Love to Code and Design
+⚔Like to share my knowledge     
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
