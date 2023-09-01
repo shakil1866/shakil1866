@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 Passionate front-end developer with expertise in front-end technology like HTML, CSS, bootstrap, javascript and React.js. Always eager to take on new challenges in the world.    
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**<br>
 - 📫 How to reach me **shakilahammed01234@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
