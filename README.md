@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahammed</h1>
 
 <h3 align="left">A passionate frontend developer from India</h3>
-
-<p>💼I am Web Developer</p>
-💎Love to Code and Design<br>
-⚔Like to share my knowledge <br>    
+<ul>
+<li>💼I am Web Developer</li>
+<li>💎Love to Code and Design</li>
+<li>⚔Like to share my knowledge </li>    
+</ul>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
