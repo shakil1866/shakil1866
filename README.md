@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahammed</h1>
 
 <h3 align="left">A passionate frontend developer from India</h3>
+<h4 align="left">💼I am Web Developer</h4>
+<h4 align="left">💎Love to Code and Design</h4
+ <h4 align="left">💫Like to share my knowledge</h4>                                          
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakil69632&label=Profile%20views&color=0e75b6&style=flat" alt="shakil1866" /> </p>
