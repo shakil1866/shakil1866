@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahammed</h1>
 
 <h3 align="left">A passionate frontend developer from India</h3>
-<ul style="list-style-type:none;">
+<ul style=" font-weight: bold;">
 💼I am Web Developer<br>
 💎Love to Code and Design<br>
 ⚔Like to share my knowledge  
