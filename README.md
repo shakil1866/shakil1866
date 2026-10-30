@@ -12,7 +12,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=sakil69632&label=Profile%20views&color=0e75b6&style=flat" alt="shakil1866" /> 
 
- <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+<br>
  Passionate front-end developer with expertise in front-end technology like HTML, CSS, bootstrap, javascript and React.js. Always eager to take on new challenges in the world.<br>   
 - 🌱 I’m currently learning **React**<br>
 - 📫 How to reach me **<a>shakilahammed01234@gmail.com</a>**
